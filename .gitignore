@@ -1,0 +1,20 @@
+# Ignore sensitive files
+
+prev_data/
+lab_report/
+*.mp4
+
+image/vid1.mp4
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp

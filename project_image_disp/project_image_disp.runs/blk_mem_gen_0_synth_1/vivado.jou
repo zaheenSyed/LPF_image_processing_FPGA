@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Nov 13 23:48:13 2023
+# Process ID: 45256
+# Current directory: C:/Users/zahee/OneDrive - University of Central Florida/coursework/EEE 5722-FPGA/lab/lab 5/project_image_disp/project_image_disp.runs/blk_mem_gen_0_synth_1
+# Command line: vivado.exe -log blk_mem_gen_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blk_mem_gen_0.tcl
+# Log file: C:/Users/zahee/OneDrive - University of Central Florida/coursework/EEE 5722-FPGA/lab/lab 5/project_image_disp/project_image_disp.runs/blk_mem_gen_0_synth_1/blk_mem_gen_0.vds
+# Journal file: C:/Users/zahee/OneDrive - University of Central Florida/coursework/EEE 5722-FPGA/lab/lab 5/project_image_disp/project_image_disp.runs/blk_mem_gen_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source blk_mem_gen_0.tcl -notrace
